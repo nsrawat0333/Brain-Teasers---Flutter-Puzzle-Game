@@ -1,0 +1,39 @@
+name: kido
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.5+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/unzipped_assets/toon_characters/Male adventurer/PNG/Poses/
+    - assets/unzipped_assets/toon_characters/Female adventurer/PNG/Poses/
+    - assets/unzipped_assets/toon_characters/Female person/PNG/Poses/
+    - assets/unzipped_assets/toon_characters/Male person/PNG/Poses/
+    - assets/unzipped_assets/toon_characters/Robot/PNG/Poses/
+    - assets/unzipped_assets/toon_characters/Zombie/PNG/Poses/
+    - assets/unzipped_assets/swat/SWAT_1/
+    - assets/unzipped_assets/zombie/Wild Zombie/
+    - assets/unzipped_assets/sokoban/PNG/Default size/Crates/
+    - assets/unzipped_assets/sokoban/PNG/Default size/Blocks/
+    - assets/unzipped_assets/sokoban/PNG/Default size/Environment/
+    - assets/unzipped_assets/sokoban/PNG/Default size/Ground/
+    - assets/unzipped_assets/sokoban/PNG/Default size/Player/
+    - assets/unzipped_assets/kenney_platformer-art-deluxe/Base pack/Items/
+    - assets/unzipped_assets/kenney_platformer-art-deluxe/Base pack/Tiles/
