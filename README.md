@@ -1,5 +1,9 @@
 # kido
 
+## Demo
+
+<video src="assets/video/0904.mp4" controls="controls" width="100%"></video>
+
 A new Flutter project.
 
 ## Getting Started
