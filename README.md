@@ -2,7 +2,7 @@
 
 ## Demo
 
-<video src="assets/video/0904.mp4" controls="controls" width="100%"></video>
+[![Demo Video](https://img.youtube.com/vi/D-1Ye8VoYkA/0.jpg)](https://www.youtube.com/watch?v=D-1Ye8VoYkA)
 
 A new Flutter project.
 
